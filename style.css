@@ -1,0 +1,65 @@
+body{
+    background-color:  #fefbd8;
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+
+h1{
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(15, 196, 102);
+}
+
+.mainImages{
+    display: inline-flex;
+    /* border: 2px dotted rgb(96, 139, 168); */
+   position: relative;
+     left: 94px;
+    top: 100px;  
+  
+   
+
+   
+}
+
+.bass-drum{
+    position: relative;
+    width: 200px;
+    height: 200px;
+   
+   
+}
+
+.hi-hats{
+    width: 200px;
+    height: 200px;
+}
+
+.cymbal{
+    width: 200px;
+    height: 200px;
+}
+
+.snare-drum{
+    width: 200px;
+    height: 200px;
+}
+
+.tom-toms-bass-drum{
+    width: 200px;
+    height: 200px;
+}
+
+.drum_sticks{
+    width: 200px;
+    height: 200px;
+}
+
+.footer{
+    position: relative;
+    top: 200px;
+    text-align: center;
+}
